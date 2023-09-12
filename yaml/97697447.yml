@@ -1,0 +1,26 @@
+---
+id: 97697447
+name: Abyss-strom
+type: Trap Card
+frameType: trap
+desc: Send 1 face-up "Umi" you control to the Graveyard; send all Spell and Trap Cards
+  on the field to the Graveyard.
+race: Normal
+archetype: Umi
+card_sets:
+- set_name: Abyss Rising
+  set_code: ABYR-EN073
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '1.03'
+card_images:
+- id: 97697447
+  image_url: https://images.ygoprodeck.com/images/cards/97697447.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/97697447.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/97697447.jpg
+card_prices:
+- cardmarket_price: '0.29'
+  tcgplayer_price: '0.19'
+  ebay_price: '0.99'
+  amazon_price: '0.20'
+  coolstuffinc_price: '0.25'
